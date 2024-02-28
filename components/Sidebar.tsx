@@ -39,7 +39,7 @@ const Sidebar: React.FC = () => {
           alt="logo"
           className="flex w-8.5"
         />
-        <h3 className="flex ml-3 text-lg">Cambtunes</h3>
+        <h3 className="flex ml-3 text-lg">Doba</h3>
       </div>
       <div className="flex flex-col mt-10 no-scrollbar overflow-y-auto duration-300 ease-linear">
         {sidebarLinks.map((item) => (
